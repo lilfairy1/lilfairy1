@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.3",
+	"Category": "",
+	"Description": "Ash Roads",
+	"Modules": [
+		{
+			"Name": "AshRoads",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{ "Name": "EnhancedInput", "Enabled": true },
+		{ "Name": "Niagara", "Enabled": true },
+		{ "Name": "ChaosVehiclesPlugin", "Enabled": true }
+	]
+}
